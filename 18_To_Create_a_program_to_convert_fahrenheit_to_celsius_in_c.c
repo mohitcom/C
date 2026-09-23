@@ -6,5 +6,4 @@ int main(){
   c=(f-32)*5/9;
   printf("The fahrenheit to celsius is %f",c);
   return 0;
-  
-}
+  }
